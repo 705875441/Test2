@@ -6,8 +6,5 @@ public class A {
 	}
 	public void b() {
 		System.out.println("aa"); 
-		
-		System.out.println();
 	}
-	
 }
