@@ -12,5 +12,6 @@ public class A {
 	}
 	public void d() {
 		System.out.println("bb");
+		System.out.println("aa"); 
 	}
 }
