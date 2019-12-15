@@ -10,4 +10,7 @@ public class A {
 	public void c() {
 		System.out.println("aa"); 
 	}
+	public void d() {
+		
+	}
 }
