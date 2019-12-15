@@ -7,6 +7,4 @@ public class A {
 	public void b() {
 		System.out.println("aa");
 	}
-	
-   int a=1;
 }
