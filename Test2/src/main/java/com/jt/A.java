@@ -4,7 +4,7 @@ public class A {
 	public void a() {
 		System.out.println();
 	}
-	public void b() {
+	public void b() { 
 		System.out.println("aa");
 	}
 }
