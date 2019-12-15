@@ -7,4 +7,7 @@ public class A {
 	public void b() {
 		System.out.println("aa"); 
 	}
+	public void c() {
+		System.out.println("aa"); 
+	}
 }
