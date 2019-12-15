@@ -8,4 +8,5 @@ public class A {
 		System.out.println("aa");
 	}
 	
+   int a=1;
 }
