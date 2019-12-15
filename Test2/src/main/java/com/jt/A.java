@@ -1,6 +1,6 @@
 package com.jt;
 
 public class A {
-   int
+   int a=1;
    public void a(){}
 }
