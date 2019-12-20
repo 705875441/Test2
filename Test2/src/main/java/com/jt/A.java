@@ -11,4 +11,16 @@ public class A {
 	public void c() { 
 		System.out.println("aa");
 	}
+	public void aa() { 
+		System.out.println("aa");
+	}
+	public void caa() { 
+		System.out.println("aa");
+	}
+	public void caaa() { 
+		System.out.println("aa");
+	}
+	public void caaaa() { 
+		System.out.println("aa");
+	}
 }
