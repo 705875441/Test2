@@ -10,5 +10,15 @@ public class A {
 	}
 	public void c() { 
 		System.out.println("aa");
+	}public void ba() { 
+		System.out.println("aa");
+	}
+	public void caa() { 
+		System.out.println("aa");
+	}public void ba() { 
+		System.out.println("aa");
+	}
+	public void caa() { 
+		System.out.println("aa");
 	}
 }
