@@ -1,4 +1,4 @@
 package com.jt;
 public class A {
-	int a=1;
+	int a=11;
 }
