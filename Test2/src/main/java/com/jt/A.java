@@ -11,10 +11,4 @@ public class A {
 	public void c() { 
 		System.out.println("aa");
 	}
-	public void d() { 
-		System.out.println("aaaaaa");
-	}
-	public void e() { 
-		System.out.println("aa");
-	}
 }
