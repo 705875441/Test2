@@ -10,10 +10,10 @@ public class A {
 	}
 	public void c() { 
 		System.out.println("aa");
-	}public void ba() { 
+	}public void baa() { 
 		System.out.println("aa");
 	}
-	public void caa() { 
+	public void caaa() { 
 		System.out.println("aa");
 	}public void ba() { 
 		System.out.println("aa");
