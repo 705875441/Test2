@@ -11,4 +11,7 @@ public class A {
 	public void c() { 
 		System.out.println("aa");
 	}
+	public void e() { 
+		System.out.println("aa");
+	}
 }
